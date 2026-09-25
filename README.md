@@ -1,4 +1,4 @@
-# Sycophancy Experiments
+# LLM Sycophancy Evaluation and Training Experiments
 
 Research scripts for investigating **sycophancy in language models**, including preference training, model inference and evaluation.
 
